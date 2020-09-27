@@ -5,4 +5,3 @@ export interface Track {
     trackPrice: 'number'
 }
 
-export default Track;
