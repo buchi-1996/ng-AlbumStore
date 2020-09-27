@@ -4,3 +4,5 @@ export interface Track {
     trackLength: 'string',
     trackPrice: 'number'
 }
+
+export default Track;

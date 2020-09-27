@@ -5,3 +5,6 @@ export interface Album {
     coverImage: 'string',
     tracks: 'Track[]'
 }
+
+export default Album;
+
